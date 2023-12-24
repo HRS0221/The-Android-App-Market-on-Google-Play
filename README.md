@@ -1,2 +1,2 @@
 # The-Android-App-Market-on-Google-Play
-Data Analysis
+This project conducted a comprehensive analysis of the Android app market on Google Play, exploring categories, app ratings, sizes, prices, and relationships between categories and prices, filtered out irrelevant apps, compared the popularity of free and paid apps, and performed sentiment analysis of user reviews to gain insights for app development and monetization strategies.
